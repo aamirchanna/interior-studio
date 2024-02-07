@@ -97,3 +97,11 @@ body {
         }
     }
 }
+footer {
+    background-color: #100f0f;
+    color: aliceblue;
+     display: flex;
+     height: 100px;
+     align-items: center;
+     justify-content: center;    
+}
