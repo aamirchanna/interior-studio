@@ -18,7 +18,7 @@ body {
     width: 700px;
     position: absolute;
     top: 90px;
-    right: 290px;
+    right: 350px;
     z-index: 1;
     margin-left: 500px;
 }
@@ -31,7 +31,7 @@ body {
     position: absolute;
     gap: 10px;
     z-index: 3;
-    margin: -400px 270px;
+    margin: -400px 350px;
 }
 
 .subclass {
