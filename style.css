@@ -79,21 +79,21 @@ body {
     @media screen and (max-width:320px) {
     
         .two{
-          width: 450px;
-          right: -200px;
+          width: 295px;
+          right: 16px;
           position: absolute;
-          height: 270px;
+          height: 175px;
          /* right: -85px;
          height: 200px;
          width: 366px; */
         }
         .three {
          position: absolute;
-         top: 730px;
+         top: 640px;
          height: 200px;
          width: 200px;
          /* left: -160px; */
-         left: -100px;
+         left: -215px;
         }
     }
 }
