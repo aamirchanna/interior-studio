@@ -54,11 +54,17 @@ body {
     margin-left: 40px;
     height: 40px;
 }
-
+footer {
+    background-color: #100f0f;
+    color: aliceblue;
+     display: flex;
+     height: 10vh;
+     align-items: center;
+     justify-content: center;    
+}
 @media screen and (max-width:768px) {
     .one {
-        height: 1300px;
-        /* width: 400px; */
+        height: 100%;
     }
 
     .two {
@@ -83,9 +89,6 @@ body {
           right: 16px;
           position: absolute;
           height: 175px;
-         /* right: -85px;
-         height: 200px;
-         width: 366px; */
         }
         .three {
          position: absolute;
@@ -96,12 +99,4 @@ body {
          left: -215px;
         }
     }
-}
-footer {
-    background-color: #100f0f;
-    color: aliceblue;
-     display: flex;
-     height: 100px;
-     align-items: center;
-     justify-content: center;    
 }
